@@ -1,3 +1,8 @@
+I have developed this NewsApp using Reactjs
+
+![news](https://user-images.githubusercontent.com/95397948/145504657-13684b92-e9f8-437c-854e-31f0c6b243f0.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
